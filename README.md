@@ -1,1 +1,3 @@
-# Round_tripping_between_data_analytics_and_physics-based_knowledge_model
+## Round tripping data analytics and Physics based knowledge model.
+Contains phase 1 work with ML algorithms <br>
+Contains phase 2 work on statistical analysis.
